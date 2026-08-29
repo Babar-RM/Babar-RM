@@ -130,19 +130,13 @@ a responsive web interface.
 
 ## 🧩 Problem Solving
 
-- 💻 **160+ LeetCode problems solved**
-- 📚 Focused on Data Structures & Algorithms
-- 🧠 Continuously improving problem-solving and algorithmic thinking
-
-[🔗 View my LeetCode](https://leetcode.com/u/Babar_Rahim/)
-
----
-
-## 📊 GitHub Stats
+- 🧠 Focused on Data Structures & Algorithms
+- 📈 Continuously improving problem-solving skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Babar-RM&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babar-RM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="https://leetcode.com/u/Babar_Rahim/">
+    <img src="https://leetcard.jacoblin.cool/Babar_Rahim?theme=dark&font=baloo&ext=heatmap" alt="Babar's LeetCode Stats"/>
+  </a>
 </p>
 
 ---
